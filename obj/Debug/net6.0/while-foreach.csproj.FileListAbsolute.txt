@@ -1,0 +1,15 @@
+F:\deneme1\while foreach\while-foreach\bin\Debug\net6.0\while-foreach.exe
+F:\deneme1\while foreach\while-foreach\bin\Debug\net6.0\while-foreach.deps.json
+F:\deneme1\while foreach\while-foreach\bin\Debug\net6.0\while-foreach.runtimeconfig.json
+F:\deneme1\while foreach\while-foreach\bin\Debug\net6.0\while-foreach.dll
+F:\deneme1\while foreach\while-foreach\bin\Debug\net6.0\ref\while-foreach.dll
+F:\deneme1\while foreach\while-foreach\bin\Debug\net6.0\while-foreach.pdb
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.csproj.AssemblyReference.cache
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.AssemblyInfoInputs.cache
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.AssemblyInfo.cs
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.csproj.CoreCompileInputs.cache
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.dll
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\ref\while-foreach.dll
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.pdb
+F:\deneme1\while foreach\while-foreach\obj\Debug\net6.0\while-foreach.genruntimeconfig.cache
